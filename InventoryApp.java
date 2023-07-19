@@ -7,7 +7,7 @@ package com.MENSAH479.inventoryapp;
 
 /**
  *
- * @author JEFF MENSAH
+ * @author JEFF MENSAH 10912479
  */
 public class InventoryApp {
 
